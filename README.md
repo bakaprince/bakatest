@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BakaTest · Cloud Computing MCQ Practice Platform
 
 A modern, distraction-free, exam-grade Cloud Computing MCQ practice web application built with **React**, **Vite**, **TypeScript**, and **Tailwind CSS**.
@@ -77,3 +78,6 @@ The compiled, production-ready static assets will be output in the `dist/` direc
 * **Zero Backend / Serverless**: Runs completely in the client's browser.
 * **No Telemetry / No Tracking**: No external analytics, third-party user tracking, or data collection.
 * **No Secrets or Credentials**: All questions and logic operate entirely offline with zero API keys or external authentication tokens.
+=======
+# bakatest
+>>>>>>> d385dfbcd6b3023542ecf5e2b3a78c3a3b08a349
